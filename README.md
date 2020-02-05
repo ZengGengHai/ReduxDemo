@@ -4,7 +4,7 @@
 
 ### 安装依赖
 
-yarn init && npm init
+yarn i && npm i
 
 ### 运行
 
